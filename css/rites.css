@@ -42,7 +42,6 @@ p{color: indigo;
             #Rites{
                 display: flex;
                 flex-direction: column;
-                border: 1px solid black;
                 margin-right: 1000px;
                 margin-bottom: 200px
             }

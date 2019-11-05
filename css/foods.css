@@ -46,4 +46,13 @@ p{color: indigo;
             margin-right: 1000px;
             margin-bottom: 200px
         }
+        #foods{display: flex;
+            flex-direction: column;
+            margin-right:1000px;
+            margin-bottom:200px;}
+    
+            
+            
         
+
+            
