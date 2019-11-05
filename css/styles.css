@@ -45,9 +45,10 @@ h5{font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 400%;}
 td>img{height:220%;
 width:220%;
-float: right;}
-{font-size: x-large;}
+float: right;
+font-size:x-large;}
 h4{font-size:x-large;}
+
 
 .description{color:yellow;}
 h1{color:yellow;
