@@ -1,0 +1,35 @@
+html{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJW5xvlHWZjWuFVPxwuJGzhhHR9Umf010vsMXspKrsZ62K0WnU);
+    background-repeat: no repeat;
+    background-size: cover;
+border: 15px lawngreen;
+padding: 30px;
+margin: 20px;}
+
+p{color: indigo;
+    font-family: fantasy;
+    font-size: larger;
+    display: block;
+    text-align:justify;}
+    h5{font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 400%;}
+
+        p{color: indigo;
+            font-family: fantasy;
+            font-size: x-large;
+            display: block;
+            text-align:justify;}
+            h4{font-size:x-large;}
+            ol,li{font-size: x-large;}
+            h2{color: red;}
+             h3{color: red;
+             font-size: 100%}
+             .description{color:red}
+             h1{color:purple;}
+             div>ol>li{color: yellow;
+                font-size: 100%;}
+                #Rites{
+                    display: flex;
+                    flex-direction: column;
+                    border: 1px solid black;
+                    margin-right: 1000px;
+                    margin-bottom: 200px;}        

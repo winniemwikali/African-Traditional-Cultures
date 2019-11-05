@@ -1,0 +1,63 @@
+html{background-image: url(https://static1.bigstockphoto.com/9/5/2/large1500/259027276.jpg);
+    background-repeat: no repeat;
+    background-size: cover;
+border: 15px lawngreen;
+padding: 30px;
+margin: 20px;}
+
+body{margin-right:10%;
+margin-right: 10%;}
+img{box-shadow: 1px solid green}
+
+nav{max-width: 400px;
+    max-height: 400px;
+margin: auto;
+padding: 10px;
+margin-right: 1px;}
+
+nav>ul{text-align: left;}
+nav>ul>li>a{padding: 10px;
+margin-right: 0px;
+text-transform: uppercase;
+text-decoration: none;
+display: block;}
+
+nav>ul>li>a:hover{box-shadow: 0px 0px 10px rgb(255,0,255);
+background: rgb(0,255,0);
+color:rgb(128,0,35);}
+
+p{color: indigo;
+font-family: fantasy;
+font-size: x-large;
+display: block;
+text-align:justify;}
+
+h2{color: red;}
+h3{color: red;
+font-size: 100%}
+
+table,th,td{border:2px solid black;
+border-collapse: collapse;
+font-size: x-large}
+
+
+h5{font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 400%;}
+td>img{height:220%;
+width:220%;
+float: right;}
+{font-size: x-large;}
+h4{font-size:x-large;}
+
+.description{color:yellow;}
+h1{color:yellow;
+text-align: left;}
+div>ol>li{color: yellow;
+font-size: 100%;}
+#Rites{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    margin-right: 1000px;
+    margin-bottom: 200px
+}
