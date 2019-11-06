@@ -26,11 +26,11 @@ color:rgb(128,0,35);}
 
 p{color: indigo;
     font-family: fantasy;
-    font-size: x-large;
+    font-size: large;
     display: block;
     text-align:justify;}
-    h4{font-size:x-large;}
-    ol,li{font-size: x-large;}
+    h4{font-size:large;}
+    ol,li{font-size: large;}
     
     h2{color: red;}
     h3{color: red;

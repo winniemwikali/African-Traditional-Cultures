@@ -7,7 +7,7 @@ margin: 20px;}
 
 p{color: indigo;
     font-family: fantasy;
-    font-size: larger;
+    font-size: large;
     display: block;
     text-align:justify;}
     h5{font-family: Georgia, 'Times New Roman', Times, serif;
@@ -15,11 +15,11 @@ p{color: indigo;
 
         p{color: indigo;
             font-family: fantasy;
-            font-size: x-large;
+            font-size: large;
             display: block;
             text-align:justify;}
-            h4{font-size:x-large;}
-            ol,li{font-size: x-large;}
+            h4{font-size:large;}
+            ol,li{font-size: large;}
             h2{color: red;}
              h3{color: red;
              font-size: 100%}

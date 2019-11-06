@@ -14,18 +14,18 @@ font-size: 200%;}
 
 p{color: indigo;
     font-family: fantasy;
-    font-size: x-large;
+    font-size: large;
     display: block;
     text-align:justify;
     font-style:link href="https://fonts.googleapis.com/css?family=Teko&display=swap" rel="stylesheet"}
 
     table,th,td{border:2px solid black;
         border-collapse: collapse;
-        font-size: x-large}
+        font-size: large}
         td>img{width: 40%;
         height: 40%;}
-        h4{font-size:x-large;}
-        ol,li{font-size: x-large;}
+        h4{font-size:large;}
+        ol,li{font-size: large;}
 
         h2{color: red;}
         h3{color: red;
