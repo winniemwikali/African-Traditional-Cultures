@@ -1,4 +1,4 @@
-html{background-image: url(https://static1.bigstockphoto.com/9/5/2/large1500/259027276.jpg);
+html{background-image: url(https://static1.bigstockphoto.com/9/5/2/large1500);
     background-size: cover;
     background-repeat: no-repeat;
     opacity: 200% ;
@@ -67,7 +67,7 @@ font-size: 100%;}
 
 #foods{display: flex;
 flex-direction: column;
-margin-right:1000px;
+margin-right:100px;
 margin-bottom:200px;
 font-style:link href="https://fonts.googleapis.com/css?family=Teko&display=swap" rel="stylesheet";}
 

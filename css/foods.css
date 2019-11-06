@@ -43,14 +43,16 @@ p{color: indigo;
             display: flex;
             flex-direction: column;
             border: 1px solid black;
-            margin-right: 1000px;
+            margin-right: 900px;
             margin-bottom: 200px
         }
         #foods{display: flex;
             flex-direction: column;
-            margin-right:1000px;
+            margin-right:900px;
             margin-bottom:200px;}
-    
+#country ol{
+    display: flex;
+}
             
             
         
