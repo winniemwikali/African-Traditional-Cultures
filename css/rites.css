@@ -16,7 +16,8 @@ p{color: indigo;
     font-family: fantasy;
     font-size: x-large;
     display: block;
-    text-align:justify;}
+    text-align:justify;
+    font-style:link href="https://fonts.googleapis.com/css?family=Teko&display=swap" rel="stylesheet"}
 
     table,th,td{border:2px solid black;
         border-collapse: collapse;
@@ -43,5 +44,6 @@ p{color: indigo;
                 display: flex;
                 flex-direction: column;
                 margin-right: 1000px;
-                margin-bottom: 200px
+                margin-bottom: 200px;
             }
+                

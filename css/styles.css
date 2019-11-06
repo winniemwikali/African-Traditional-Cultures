@@ -21,11 +21,12 @@ nav>ul>li>a{padding: 10px;
 margin-right: 0px;
 text-transform: uppercase;
 text-decoration: none;
-display: block;}
+display: inline-block;}
 
 nav>ul>li>a:hover{box-shadow: 0px 0px 10px rgb(255,0,255);
 background: rgb(0,255,0);
-color:rgb(128,0,35);}
+color:rgb(128,0,35);
+}
 
 p{color: yellow;
 font-family: fantasy;
@@ -67,9 +68,12 @@ font-size: 100%;}
 #foods{display: flex;
 flex-direction: column;
 margin-right:1000px;
-margin-bottom:200px;}
+margin-bottom:200px;
+font-style:link href="https://fonts.googleapis.com/css?family=Teko&display=swap" rel="stylesheet";}
 
 #clothing{display: flex;
 flex-direction: column;
+
+text-align: center;
 margin-right: 1000px;
 margin-bottom: 200px;}

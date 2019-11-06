@@ -37,6 +37,7 @@ p{color: indigo;
                     
                     #clothing{display: flex;
                         flex-direction: column;
+                        text-align: center;
                         margin-right: 1000px;
                         margin-bottom: 200px;}
                         
