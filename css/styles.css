@@ -61,8 +61,8 @@ font-size: 100%;}
 #Rites{
     display: flex;
     flex-direction: column;
-    margin-right: 800px;
-    margin-bottom: 400px
+    margin-right: 1px;
+    margin-bottom: 1px
 }
 
 #foods{display: flex;
@@ -75,5 +75,5 @@ font-style:link href="https://fonts.googleapis.com/css?family=Teko&display=swap"
 flex-direction: column;
 
 text-align: center;
-margin-right: 1000px;
-margin-bottom: 200px;}
+margin-right: 20px;
+margin-bottom: 10px;}

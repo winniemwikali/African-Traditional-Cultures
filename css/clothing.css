@@ -31,13 +31,13 @@ p{color: indigo;
                     display: flex;
                     flex-direction: column;
                     border: 1px solid black;
-                    margin-right: 1000px;
-                    margin-bottom: 200px;
+                    margin-right: 10px;
+                    margin-bottom: 20px;
                 color:y}   
                     
                     #clothing{display: flex;
                         flex-direction: column;
                         text-align: center;
-                        margin-right: 1000px;
-                        margin-bottom: 200px;}
+                        margin-right: 20px;
+                        margin-bottom: 10px;}
                         
