@@ -1,42 +1,62 @@
-html{background-color: tomato;
+*{background-color: tomato;
     background-size: cover;
     background-repeat: no-repeat;
     opacity: 200% ;
 border: 15px lawngreen;
-padding: 20px;
-margin:30px;}
+}
 
-body{margin-right:10%;
+.image{margin-right:10%;
 margin-right: 10%;}
-img{box-shadow: 1px solid green}
+img{box-shadow: 1px solid green
+}
 
-nav{max-width: 400px;
-    max-height: 400px;
-margin: auto;
-padding: 10px;
-margin-right: 1px;}
+nav{
+    margin-right: 0;
+    background-color: black;
+    right: 0;
+    left:0;
+    top: 0;
+    position: fixed;
+    padding: 15px;}
+    
+    
+    ul{list-style-type:none;
+    padding: 0;
+    margin: 0;
+    position: fixe;
+    top:0;
+    width: 100%;
+    text-align: right;
+    }
 
-nav>ul{text-align: left;}
-nav>ul>li>a{padding: 10px;
-margin-right: 0px;
-text-transform: uppercase;
-text-decoration: none;
-display: inline-block;}
+    ul{
+        display:inline;
+        display: flex; 
+        padding-top: 10px;
+        padding:18px;}
+
+        nav>ul>li>a{padding: 10px;
+            margin-right: 0px;
+            text-transform: uppercase;
+            text-decoration: none;
+            display: inline;
+            float: left;}
 
 nav>ul>li>a:hover{box-shadow: 0px 0px 10px rgb(255,0,255);
 background: rgb(0,255,0);
 color:rgb(128,0,35);
 }
 
-p{color: yellow;
+p{color:black;
 font-family: fantasy;
 font-size: x-large;
 display: block;
 text-align:justify;
 font-style:link href="https://fonts.googleapis.com/css?family=Jomolhari&display=swap" rel="stylesheet";}
 
-h2{color: red;}
-h3{color: red;
+h2{color: black;
+font-size: 100%}
+h3{color: black;
 font-size: 100%}
 
 table,th,td{border:2px solid black;
@@ -53,10 +73,10 @@ font-size:x-large;}
 h4{font-size:x-large;}
 
 
-.description{color:yellow;}
-h1{color:yellow;
+.description{color:black;}
+h1{color:black;
 text-align: left;}
-div>ol>li{color: yellow;
+div>ol>li{color: black;
 font-size: 100%;}
 #Rites{
     display: flex;
@@ -69,11 +89,55 @@ font-size: 100%;}
 flex-direction: column;
 margin-right:800px;
 margin-bottom:200px;
-font-style:link href="https://fonts.googleapis.com/css?family=Teko&display=swap" rel="stylesheet";}
+margin-top:7%;
+margin-left: 20%;
+margin-right: 20%;}
 
-#clothing{display: flex;
-flex-direction: column;
 
-text-align: center;
+#four{margin-top: 7%;
+    margin-left: 20%;
+    margin-right:20%;}
+
+
+    #rites{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-right: 20px;
+        margin-bottom: 10px;}
+    
+
+
+#cultures{
+    margin-top: 7%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#first{margin-top: 7%;
+margin-left: 20%;
+margin-right: 20%;}
+
+#second{margin-top: 7%;
+margin-left: 20%;
+margin-right: 20%;}
+
+ #third{margin-top: 7%;
+margin-left: 20px;
+margin-right: 20px;}
+
+#Rites{ 
+    margin-top: 7%;
+    margin-right: 20px;
+    margin-left: 20px;}
+
+    #main{margin-top: 7%;
+    margin-right: 20px;
+margin-left: 20px;}
+
+#other{margin-top: 7%;
 margin-right: 20px;
-margin-bottom: 10px;}
+margin-left: 20px;}
+
+
+
