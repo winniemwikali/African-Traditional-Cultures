@@ -73,16 +73,21 @@ img{float: center;
 margin-top: 0%;
 margin-bottom:40px;}
 
-    h5{font-family: Georgia, 'Times New Roman', Times, serif;
-        font-size: 400%;}
+    h5{font-family: 'Alegreya Sans', sans-serif;
+        font-size: 30px;
+    margin-top:7%;}
 
         p{color:black;
             font-family: fantasy;
             font-size: large;
             display: block;
-            text-align:justify;}
+            text-align:justify;
+            font-family: 'Alegreya Sans', sans-serif;
+            font-size:30px;}
+        
             h4{font-size:large;}
-            ol,li{font-size: large;}
+            ol,li{font-size: large;
+                font-family: 'Alegreya Sans', sans-serif;}
             h2{color: re;}
              h3{color:black;
              font-size: 100%}
@@ -106,4 +111,5 @@ margin-bottom:40px;}
                         #third{margin-top: 7%;
                             margin-left: 20px;
                             margin-right: 20px;}
-                        
+                        #explanation{font-family: 'Alegreya Sans', sans-serif;
+                        font-size:30px;}

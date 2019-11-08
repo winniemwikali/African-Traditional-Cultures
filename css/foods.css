@@ -44,12 +44,12 @@ background: rgb(0,255,0);
 color:rgb(128,0,35);}
 
 p{color: black;
-    font-family: fantasy;
-    font-size: large;
     display: block;
     text-align:justify;}
     h4{font-size:large;}
-    ol,li{font-size: large;}
+    ol,li{font-size: large;
+        font-family: 'Alegreya Sans', sans-serif;
+    font-size: 30px;}
     
     h2{color:black;}
     h3{color:black;
@@ -75,7 +75,9 @@ p{color: black;
 
 #third{margin-top:7%;
 margin-left: 20%;
-margin-right:20%;}
+margin-right:20%;
+font-family: 'Alegreya Sans', sans-serif;
+font-size:30px;}
          
         
         

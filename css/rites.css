@@ -4,7 +4,8 @@
     background-repeat: no-repeat;
     opacity: 200% ;
 border: 15px lawngreen;
-}
+font-family: 'Alegreya Sans', sans-serif;
+font-size: 30px;}
 
 nav{
     margin-right: 0;
@@ -53,7 +54,9 @@ p{color:black;
     font-family: fantasy;
     font-size: large;
     display: block;
-    text-align:justify;}
+    text-align:justify;
+    font-family: 'Alegreya Sans', sans-serif;
+font-size: 30px;}
     
         h2{color:black;}
         h3{color:black;
@@ -81,5 +84,6 @@ p{color:black;
             #other{margin-top: 7%;
             margin-right: 20%;
         margin-left: 20%;}
+        *{}
 
 
