@@ -2,35 +2,31 @@
 *{background-color: tomato;
     background-size: cover;
     background-repeat: no-repeat;
-    opacity: 200% ;
 border: 15px lawngreen;
-font-family: 'Alegreya Sans', sans-serif;
-font-size: 30px;}
+}
 
 nav{
+    
     margin-right: 0;
     background-color: black;
     right: 0;
     left:0;
     top: 0;
     position: fixed;
-    padding: 15px;}
+    padding: 10px;}
     
-    
-    ul{list-style-type:none;
-    padding: 0;
-    margin: 0;
-    position: fixe;
-    top:0;
-    width: 100%;
-    text-align: right;
-    }
 
-    ul{
-        display:inline;
-        display: flex; 
-        padding-top: 10px;
-        padding:18px;}
+
+
+
+
+ul{ list-style: none;
+display:inline;
+display: flex; 
+padding-top: 1px;
+padding:10px;
+font-size: 30px;}
+
         
     
 
@@ -63,17 +59,20 @@ font-size: 30px;}
         font-size: 100%}
 
         h1{color:black;
-            text-align: left;}
+            text-align: left;
+        }
             div>ol>li{color:black;
-            font-size: 100%;}
+            font-size: 30px;}
             
         .description{color:black}
-        h1{color:black;}
+        h1{color:black;
+            font-family: 'Alegreya Sans', sans-serif;
+            font-size: 30px;}
         div>ol>li{color: black;
-            font-size: 100%;}
+            font-size: 30px;}
            
             #Rites{ 
-                margin-top: 10%;
+                margin-top: 20%;
                 margin-right: 70%;
                 margin-left: 20px;}
 
@@ -84,6 +83,6 @@ font-size: 30px;}
             #other{margin-top: 7%;
             margin-right: 20%;
         margin-left: 20%;}
-        *{}
+    
 
 

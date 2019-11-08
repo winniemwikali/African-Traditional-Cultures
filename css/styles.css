@@ -1,7 +1,6 @@
 *{background-color: tomato;
     background-size: cover;
     background-repeat: no-repeat;
-    opacity: 200% ;
 border: 15px lawngreen;
 font-family: 'Alegreya Sans', sans-serif;
 font-size: 30px;
@@ -13,23 +12,28 @@ img{box-shadow: 1px solid green
 }
 
 nav{
+    
     margin-right: 0;
     background-color: black;
     right: 0;
     left:0;
     top: 0;
     position: fixed;
-    padding: 15px;}
+    padding: 10px;}
     
+
+
+
+
+
+ul{ list-style: none;
+display:inline;
+display: flex; 
+padding-top: 1px;
+padding:10px;
+font-size: 30px;}
+
     
-    ul{list-style-type:none;
-    padding: 0;
-    margin: 0;
-    position: fixe;
-    top:0;
-    width: 100%;
-    text-align: right;
-    }
 
     ul{
         display:inline;
@@ -53,33 +57,31 @@ p{color:black;
 font-family: fantasy;
 font-size: x-large;
 display: block;
-text-align:justify;
-font-style:link href="https://fonts.googleapis.com/css?family=Jomolhari&display=swap" rel="stylesheet";}
+text-align:justify;}
+
 
 h2{color: black;
-font-size: 100%}
+font-size: 30px;}
 h3{color: black;
-font-size: 100%}
+font-size: 30px;}
 
-table,th,td{border:2px solid black;
-border-collapse: collapse;
-font-size: large}
+
 
 
 h5{font-family: Georgia, 'Times New Roman', Times, serif;
-font-size: 400%;}
+font-size: 30px;;}
 td>img{height:220%;
 width:220%;
 float: right;
 font-size:x-large;}
-h4{font-size:x-large;}
+h4{font-size:large;}
 
 
 .description{color:black;}
 h1{color:black;
 text-align: left;}
 div>ol>li{color: black;
-font-size: 100%;}
+font-size: 30px;}
 #Rites{
     display: flex;
     flex-direction: column;
@@ -111,7 +113,7 @@ margin-right: 20%;}
 
 
 #cultures{
-    margin-top: 7%;
+    margin-top: 20%;
     margin-left: 20%;
     margin-right: 20%;
 }
@@ -141,5 +143,9 @@ margin-left: 20px;}
 margin-right: 20px;
 margin-left: 20px;}
 
+#pics{
+margin-left:80px;
+display: flex;
+;
 
-
+}
