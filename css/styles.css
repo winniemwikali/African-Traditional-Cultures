@@ -1,9 +1,21 @@
-*{background-color: tomato;
+body{background-color: lightblue;
     background-size: cover;
     background-repeat: no-repeat;
 border: 15px lawngreen;
 font-family: 'Alegreya Sans', sans-serif;
 font-size: 30px;
+overflow: hidden;
+}
+
+/* Tablet Landscape */
+@media screen and (max-width: 1060px) {
+    #primary { width:67%; }
+    #secondary { width:30%; margin-left:3%;}  
+}
+/* Tabled Portrait */
+@media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
 }
 
 .image{margin-right:10%;
@@ -44,7 +56,9 @@ font-size: 30px;}
         nav>ul>li>a{padding: 10px;
             margin-right: 0px;
             text-transform: uppercase;
-            text-decoration: none;
+            text-decoration: underline;
+            text-decoration-color:orangered;
+            color: white;
             display: inline;
             float: left;}
 
@@ -79,7 +93,8 @@ h4{font-size:large;}
 
 .description{color:black;}
 h1{color:black;
-text-align: left;}
+text-align: left;
+font-family: 'Rubik Mono One', sans-serif;}
 div>ol>li{color: black;
 font-size: 30px;}
 #Rites{
