@@ -9,4 +9,4 @@ HTML
 CSS
 Click here to see my project
 
-https://github.com/winniemwikali/African-Traditional-Cultures
+https://github.com/winniemwikali/African-Traditional-Cultures/
